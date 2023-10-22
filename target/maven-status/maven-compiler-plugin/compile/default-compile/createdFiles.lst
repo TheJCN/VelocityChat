@@ -1,7 +1,0 @@
-jcn\velocitychat\command\ClanMessage.class
-jcn\velocitychat\listener\PlayerMessageToChat.class
-jcn\velocitychat\database\DataBaseManager.class
-jcn\velocitychat\command\PrivateMessage.class
-jcn\velocitychat\database\DataBaseRequest.class
-velocity-plugin.json
-jcn\velocitychat\VelocityChat.class
